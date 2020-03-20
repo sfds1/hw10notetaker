@@ -14,7 +14,7 @@ This application will use an express backend and save and retrieve note data fro
 The application  will be invoked with the following command:
 
 ```sh
-nodemon app.js
+nodemon server.js
 ```
 
 ## Technologies
