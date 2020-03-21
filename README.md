@@ -33,7 +33,8 @@ Knowing to put the wildcard (*) route at the end of all the routes otherwise non
 
 
 ## What did you learn
-
+Heroku is pretty cool.
+For me: Look in Week 11, 04-Supplemental for instructions on how to set up Heroku url
 
 ## How did you go about solving a problem
 
@@ -45,4 +46,7 @@ Knowing to put the wildcard (*) route at the end of all the routes otherwise non
 
 ## Live app, not code
 
+![](images/note_taker_home.png)
 
+![](images/note_taker_notes_page.png)
+![](images/note_page_with_save.png)
