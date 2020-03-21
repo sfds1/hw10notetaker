@@ -21,10 +21,10 @@ nodemon server.js
 Node, HTML, CSS, Javascript
 
 ## Languages, frameworks, various tools
-This application uses Node packages 
+This application uses Node packages Express, FS, PATH and MySQL.
 
 ## Challenges
-
+Knowing to put the wildcard (*) route at the end of all the routes otherwise none of the routes would work.
 
 ## Your experience building this app
 
@@ -40,10 +40,9 @@ This application uses Node packages
 
 ## Screenshot
 
-![](images/ScreenShotPDF.png)
+
 
 
 ## Live app, not code
 
-![](images/ScreenShotApp.png)
 
